@@ -17,5 +17,6 @@ for word in words:
         words_with_pos[token.text] = token.pos_
 
 print(words_with_pos)
+
 # Statistics
 # Pie chart
